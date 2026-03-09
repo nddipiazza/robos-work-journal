@@ -3,6 +3,7 @@
 Auto-generated developer journal. Updated by RobOS apps.
 
 ## Daily Entries
+- [2026-03-09](daily/2026-03-09.md)
 - [2026-03-08](daily/2026-03-08.md)
 - [2026-03-07](daily/2026-03-07.md)
 
